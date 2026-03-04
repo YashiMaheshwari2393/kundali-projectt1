@@ -1,1 +1,1 @@
-# kundali-projectt1
+# kundali-project1
